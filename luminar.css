@@ -1,0 +1,26 @@
+/* #a1{
+    color:pink ;
+} */
+#a1 li a:hover{
+    color:purple;
+
+}
+.carousel-inner{
+    position: relative;
+}
+.carousel-caption{
+    position: absolute;
+    margin-top: 100px;
+}
+.m1{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.but1{
+    margin-left: -481px;
+    
+}
+.but2{
+    margin-left: 104px;
+
+}
