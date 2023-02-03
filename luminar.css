@@ -46,3 +46,68 @@
     border-radius: 30px;
 
 }
+.lumi{
+    color: rgb(165, 86, 238);
+}
+.cin{
+    color: plum;
+}
+.tech{
+    color: rgb(49, 44, 44);
+}
+/* .sh{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+} */
+.ho2{
+    width: 100%;
+    /* animation: anime 1s ease-out 1s infinite; */
+    
+}
+.ho2:hover{
+    width: 103%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+}
+.id1{
+    top: 0;
+    position: sticky;
+    z-index: 100;
+    width: 100%;
+    background-color: white;
+
+}
+.lum{
+    color: blueviolet;
+}
+.bn{
+    background-color: rgb(103, 19, 182);
+    color: rgb(253, 253, 253);
+    border: none;  
+}
+.btn2{
+    margin-left: 50%;
+}
+.ca1{
+    width: 18rem; 
+    height: 28rem;
+
+}
+
+.ca1:hover{
+    width: 25rem;
+    height:35rem ;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.btz{
+    background-color: blueviolet;
+    color: beige;
+    width: 150px;
+    border: none;
+    border-radius: 30px;
+    height:48px ;
+    margin-left: 41.5%;
+}
