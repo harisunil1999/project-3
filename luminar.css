@@ -19,8 +19,30 @@
 .but1{
     margin-left: -481px;
     
+    
 }
 .but2{
     margin-left: 104px;
+
+}
+#b4{
+    border: none;
+}
+#but2{
+    background-color: blueviolet;
+    color: white;
+    width: 150px;
+    border: none;
+}
+#b3{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 30px;
+    border: none;
+}
+.bt1{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 30px;
 
 }
